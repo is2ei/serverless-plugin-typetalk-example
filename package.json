@@ -1,5 +1,10 @@
 {
-  "private": true,
+  "description": "Working example for serverless-plugin-typetalk",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/is2ei/serverless-plugin-typetalk-example"
+  },
+  "license": "MIT",
   "dependencies": {
     "serverless-plugin-typetalk": "1.0.0"
   }
